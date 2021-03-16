@@ -1,0 +1,7 @@
+{
+    "email":"YourUserName",
+    "password":"YourPassword",
+    "keywords":"Job Keyword",
+    "location":"Your desired location",
+    "driver_path":"driver/chromedriver(path to driver)"
+}
