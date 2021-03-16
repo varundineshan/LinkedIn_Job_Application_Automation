@@ -1,7 +1,8 @@
 # LinkedIn_Job_Application_Automation
 ##Automating tool that helps in applying for jobs on linkedin using selenium driver and python
 
-How to use?
+-How to use?<br/>
+<br/>
 1.pip install selenium<br/>
 2.download selenium python driver based on browser<br/>
 3.edit config file to include your credentials and preferences<br/>
